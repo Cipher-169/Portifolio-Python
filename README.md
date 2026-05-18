@@ -37,6 +37,21 @@ Quantos elementos deseja ver? 8
 
 ---
 
+### 📅 Validador de Data
+Valida e formata datas no padrão DD/MM/AAAA, verificando formato, mês, dias por mês e anos bissextos.
+
+**Como rodar:**
+```bash
+python date_validator.py
+```
+**Exemplo de uso:**
+```
+Digite uma data no formato (DD/MM/AAAA): 29/02/2024
+29 de fevereiro de 2024
+```
+
+---
+
 ## ⚙️ Requisitos
 - Python 3.10+
 
